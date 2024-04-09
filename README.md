@@ -8,10 +8,14 @@ Overview 📝
 Bubble Burst Game is a simple yet engaging game built using Pygame and OpenCV. Players use hand gestures captured via webcam to pop bubbles that descend from the top of the screen. The goal is to achieve the highest score possible by popping as many bubbles as you can before reaching the high score limit. 🚀🔵
 
 Features 🛠️
+
 Hand Gesture Control: Utilizes the MediaPipe library for hand tracking, allowing players to interact with the game using their hand gestures. ✋👀
 Scoring System: Earn points for each bubble popped. Try to beat your high score in each game session! 🏆🔢
 Interactive Gameplay: Engage with the game by popping bubbles as they fall down the screen. 🤹‍♂️💥
 Dynamic Difficulty: The game dynamically adjusts the number and speed of bubbles based on your performance, providing an ever-changing challenge. ⚙️📈
+
+
+
 Prerequisites 📋
 Before running the game, ensure you have the following prerequisites installed:
 
