@@ -19,6 +19,8 @@ Dynamic Difficulty: The game dynamically adjusts the number and speed of bubbles
 
 
 Prerequisites 📋
+
+
 Before running the game, ensure you have the following prerequisites installed:
 
 Python 3.x 🐍
