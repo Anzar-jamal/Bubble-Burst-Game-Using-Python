@@ -5,6 +5,8 @@ Welcome to Bubble Pop Game, a fun and interactive game where you pop bubbles usi
 
 
 Overview 📝
+
+
 Bubble Burst Game is a simple yet engaging game built using Pygame and OpenCV. Players use hand gestures captured via webcam to pop bubbles that descend from the top of the screen. The goal is to achieve the highest score possible by popping as many bubbles as you can before reaching the high score limit. 🚀🔵
 
 Features 🛠️
